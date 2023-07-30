@@ -1,0 +1,269 @@
+topics:
+  - name: Business
+    maximum_topics: 6
+    sub_topics:
+      - name: Creator Economy
+        stream_id: feed/https://feedly.com/f/alert/7a1c2fdc-f0d0-4339-9ceb-27ff45891a5e
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 9
+        storypro_user_id: 5
+        pinterest_board: 823314444319035270
+        ai_disclaimer: false
+        prompts: 'business'
+
+  # Utilizing the same user as for Entertainment
+  - name: Creative
+    maximum_topics: 6
+    sub_topics:
+      - name: Creativity
+        stream_id: feed/https://feedly.com/f/alert/a91692e1-e2e7-4043-8a50-14564ed776d0
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 17
+        storypro_user_id: 12
+        pinterest_board: 823314444319035271
+        ai_disclaimer: false
+        prompts: 'entertainment'
+
+      - name: Midjourney
+        stream_id: feed/https://feedly.com/f/alert/df77b082-e190-4c4f-8de0-bbf396e9f4a2
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 17
+        storypro_user_id: 12
+        pinterest_board: 823314444318545040
+        ai_disclaimer: false
+        prompts: 'entertainment'
+
+      - name: Photography
+        stream_id: feed/https://feedly.com/f/alert/1e3690d3-48f7-45c1-ac6b-7ad0e47deb09
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 17
+        storypro_user_id: 12
+        pinterest_board: 823314444319035274
+        ai_disclaimer: false
+        prompts: 'entertainment'
+
+  - name: Entertainment
+    maximum_topics: 6
+    sub_topics:
+      - name: Music
+        stream_id: feed/https://feedly.com/f/alert/b9539fba-4a66-4166-85ee-3acda83ea396
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 15
+        storypro_user_id: 12
+        pinterest_board: 121878802354708487
+        ai_disclaimer: false
+        prompts: 'entertainment'
+
+      - name: Sex
+        stream_id: feed/https://feedly.com/f/alert/b21e5c89-8c9b-485a-b7c1-00381d0a339b
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 7
+        storypro_user_id: 12
+        pinterest_board: 796152109065378262
+        ai_disclaimer: false
+        prompts: 'entertainment'
+
+  # Utilizing the same user as for Science
+  - name: Health
+    maximum_topics: 6
+    sub_topics:
+      - name: Health
+        stream_id: feed/https://feedly.com/f/alert/7b6cf192-cfcc-4a02-9af3-5b7d1783eaf7
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 7
+        storypro_user_id: 11
+        pinterest_board: 823314444319035277
+        ai_disclaimer: false
+        prompts: 'magical'
+
+      - name: Mental Health
+        stream_id: feed/https://feedly.com/f/alert/888b876b-c117-4393-9c89-e23e618723f8
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 7
+        storypro_user_id: 11
+        pinterest_board: 823314444318494737
+        ai_disclaimer: false
+        prompts: 'magical'
+
+  # Utilizing the same user as for Politics (Zeus)
+  - name: History
+    maximum_topics: 6
+    sub_topics:
+      - name: 17th Century
+        stream_id: feed/https://feedly.com/f/alert/e5f30cd2-c035-4cc5-9561-bb7c593f15ee
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 49
+        storypro_user_id: 7
+        pinterest_board: 823314444319035278
+        ai_disclaimer: false
+        prompts: 'heroic'
+
+      - name: 18th Century
+        stream_id: feed/https://feedly.com/f/alert/6a3eb5db-0719-410c-afd1-46de4138273b
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 49
+        storypro_user_id: 7
+        pinterest_board: 823314444319035279
+        ai_disclaimer: false
+        prompts: 'heroic'
+
+      - name: 20th Century
+        stream_id: feed/https://feedly.com/f/alert/b5097ea9-6453-47b1-9c89-1f2f6207c92c
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 49
+        storypro_user_id: 7
+        pinterest_board: 823314444319035280
+        ai_disclaimer: false
+        prompts: 'heroic'
+
+  - name: Science
+    maximum_topics: 6
+    sub_topics:
+      - name: Archaeology
+        stream_id: feed/https://feedly.com/f/alert/e9cd004d-7b01-4bdb-a2e4-d52600ddedff
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 82
+        storypro_user_id: 11
+        pinterest_board: 823314444319035281
+        ai_disclaimer: false
+        prompts: 'magical'
+
+      - name: Entheogens
+        stream_id: feed/https://feedly.com/f/alert/a083ae5c-40dd-4075-bf81-8588d87050bd
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 82
+        storypro_user_id: 11
+        pinterest_board: 823314444319035282
+        ai_disclaimer: false
+        prompts: 'magical'
+
+      - name: Environment
+        stream_id: feed/https://feedly.com/f/alert/9e7d95b2-52e9-4b12-9ef8-4430523b9644
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 82
+        storypro_user_id: 11
+        pinterest_board: 823314444319035283
+        ai_disclaimer: false
+        prompts: 'magical'
+
+      - name: Marine
+        stream_id: feed/https://feedly.com/f/alert/7e3ac1d8-7a2c-4d00-a109-289c79b225e5
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 82
+        storypro_user_id: 11
+        pinterest_board: 823314444319035268
+        ai_disclaimer: false
+        prompts: 'magical'
+
+      - name: Robotics
+        stream_id: feed/https://feedly.com/f/alert/ddf3d580-5cc9-47dd-b5e2-4e51568b6992
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 82
+        storypro_user_id: 11
+        pinterest_board: 823314444318515573
+        ai_disclaimer: false
+        prompts: 'magical'
+
+      - name: Space
+        stream_id: feed/https://feedly.com/f/alert/c6ffe709-f34f-40cc-ab24-0538d3c55a69
+        min_tags_for_story: 2
+        max_stories_per_day: 1
+        storypro_category_id: 82
+        storypro_user_id: 11
+        pinterest_board: 823314444318549532
+        ai_disclaimer: false
+        prompts: 'magical'
+
+
+  - name: Sports
+    maximum_topics: 6
+    sub_topics:
+      - name: American Football
+        stream_id: feed/https://feedly.com/f/alert/240dd4d0-f4dd-479d-95ce-942c17e5195a
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 83
+        storypro_user_id: 4
+        pinterest_board: 823314444319036171
+        ai_disclaimer: false
+        prompts: 'sports'
+
+      - name: MMA
+        stream_id: feed/https://feedly.com/f/alert/16416545-1fd4-4599-9359-cd5b5ae89973
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 83
+        storypro_user_id: 4
+        pinterest_board: 823314444319035287
+        ai_disclaimer: false
+        prompts: 'sports'
+
+  # Utilizing same user as Science and a category of Business
+  - name: Tech
+    maximum_topics: 6
+    sub_topics:
+      - name: AI Learning
+        stream_id: feed/https://feedly.com/f/alert/19596a20-20a5-4c63-a12c-2a9e6352f9ae
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 9
+        storypro_user_id: 11
+        pinterest_board: 823314444319035288
+        ai_disclaimer: false
+        prompts: 'magical'
+
+      - name: Augmented Reality
+        stream_id: feed/https://feedly.com/f/alert/c3f77ca0-98af-4aaa-8cd3-80a99eaa72d0
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 9
+        storypro_user_id: 11
+        pinterest_board: 823314444319035289
+        ai_disclaimer: false
+        prompts: 'magical'
+
+      - name: ChatGPT
+        stream_id: feed/https://feedly.com/f/alert/bf42a5db-bc4b-4c23-87ab-7084f7262e87
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 9
+        storypro_user_id: 11
+        pinterest_board: 823314444319035290
+        ai_disclaimer: false
+        prompts: 'magical'
+
+      - name: Tech Entrepreneurship
+        stream_id: feed/https://feedly.com/f/alert/96338150-779c-4465-96b3-6f340ca79572
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 9
+        storypro_user_id: 11
+        pinterest_board: 768708298836199318
+        ai_disclaimer: false
+        prompts: 'magical'
+
+      - name: Web3
+        stream_id: feed/https://feedly.com/f/alert/5c16d0d7-b460-45c8-8c2d-0856da5fcca1
+        min_tags_for_story: 1
+        max_stories_per_day: 1
+        storypro_category_id: 9
+        storypro_user_id: 11
+        pinterest_board: 823314444319036180
+        ai_disclaimer: false
+        prompts: 'magical'
