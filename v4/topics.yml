@@ -8,7 +8,7 @@ topics:
         max_stories_per_day: 1
         storypro_category_id: 9
         storypro_user_id: 5
-        pinterest_board: 823314444319035270
+        pinterest_board:  823314444318087910
         ai_disclaimer: false
         prompts: 'business'
 
@@ -22,7 +22,7 @@ topics:
         max_stories_per_day: 1
         storypro_category_id: 17
         storypro_user_id: 12
-        pinterest_board: 823314444319035271
+        pinterest_board:  823314444318087910
         ai_disclaimer: false
         prompts: 'entertainment'
 
@@ -32,7 +32,7 @@ topics:
         max_stories_per_day: 1
         storypro_category_id: 17
         storypro_user_id: 12
-        pinterest_board: 823314444318545040
+        pinterest_board: 823314444319035272
         ai_disclaimer: false
         prompts: 'entertainment'
 
@@ -42,7 +42,7 @@ topics:
         max_stories_per_day: 1
         storypro_category_id: 17
         storypro_user_id: 12
-        pinterest_board: 823314444319035274
+        pinterest_board: 823314444318500157
         ai_disclaimer: false
         prompts: 'entertainment'
 
@@ -55,7 +55,7 @@ topics:
         max_stories_per_day: 1
         storypro_category_id: 15
         storypro_user_id: 12
-        pinterest_board: 121878802354708487
+        pinterest_board: 823314444319035275
         ai_disclaimer: false
         prompts: 'entertainment'
 
@@ -65,7 +65,7 @@ topics:
         max_stories_per_day: 1
         storypro_category_id: 7
         storypro_user_id: 12
-        pinterest_board: 796152109065378262
+        pinterest_board: 823314444319035276
         ai_disclaimer: false
         prompts: 'entertainment'
 
@@ -79,7 +79,7 @@ topics:
         max_stories_per_day: 1
         storypro_category_id: 7
         storypro_user_id: 11
-        pinterest_board: 823314444319035277
+        pinterest_board: 823314444318549536
         ai_disclaimer: false
         prompts: 'magical'
 
@@ -89,7 +89,7 @@ topics:
         max_stories_per_day: 1
         storypro_category_id: 7
         storypro_user_id: 11
-        pinterest_board: 823314444318494737
+        pinterest_board: 823314444319035268
         ai_disclaimer: false
         prompts: 'magical'
 
@@ -166,7 +166,7 @@ topics:
         max_stories_per_day: 1
         storypro_category_id: 82
         storypro_user_id: 11
-        pinterest_board: 823314444319035268
+        pinterest_board: 823314444319035284
         ai_disclaimer: false
         prompts: 'magical'
 
@@ -176,7 +176,7 @@ topics:
         max_stories_per_day: 1
         storypro_category_id: 82
         storypro_user_id: 11
-        pinterest_board: 823314444318515573
+        pinterest_board: 823314444319035285
         ai_disclaimer: false
         prompts: 'magical'
 
@@ -186,7 +186,7 @@ topics:
         max_stories_per_day: 1
         storypro_category_id: 82
         storypro_user_id: 11
-        pinterest_board: 823314444318549532
+        pinterest_board: 823314444319035286
         ai_disclaimer: false
         prompts: 'magical'
 
@@ -254,7 +254,7 @@ topics:
         max_stories_per_day: 1
         storypro_category_id: 9
         storypro_user_id: 11
-        pinterest_board: 768708298836199318
+        pinterest_board: 823314444318515573
         ai_disclaimer: false
         prompts: 'magical'
 
